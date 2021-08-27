@@ -11,13 +11,23 @@ And these are [Base16](http://chriskempson.com/projects/base16) schemes for [Da 
 ## 🎨 Palette
 White:
 
+![preview-white](https://user-images.githubusercontent.com/43980777/131168422-5d0ef9a1-ba0d-4d0c-821e-9c8500b82e6d.png)
+
 Gray:
+
+![preview-gray](https://user-images.githubusercontent.com/43980777/131168453-ac2bf2cd-7c44-4fbc-98f4-0c84fdeed1fb.png)
 
 Black:
 
+![preview-black](https://user-images.githubusercontent.com/43980777/131168465-ed5b9008-2d60-46ba-b980-574afb59a789.png)
+
 Ocean:
 
+![preview-ocean](https://user-images.githubusercontent.com/43980777/131168476-26853816-29de-4b24-8f81-85eb2aa36494.png)
+
 Paper:
+
+![preview-paper](https://user-images.githubusercontent.com/43980777/131168486-42d3d2c9-69b0-4100-907c-3bb7972a700c.png)
 
 ## 💌 Credits
 Special thanks to:
