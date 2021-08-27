@@ -6,7 +6,7 @@
 ## 💡 About
 > [**Da One**](https://github.com/NNBnh/da-one) is a vibrant and harmony color scheme inspired by [Base16 Default](https://github.com/chriskempson/base16-default-schemes) and [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax).
 
-And these are Base16 schemes for [Da One](https://github.com/NNBnh/da-one).
+And these are [Base16](http://chriskempson.com/projects/base16) schemes for [Da One](https://github.com/NNBnh/da-one).
 
 ## 🎨 Palette
 White:
