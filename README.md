@@ -4,6 +4,7 @@
 <p align="center"><a href="https://github.com/NNBnh/baseone/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-gpl--3.0-%235890F8.svg?labelColor=525866&style=for-the-badge&logoColor=FFFFFF" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%235890F8.svg?labelColor=525866&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
 
 ## 💡 About
+
 > [**Da One**](https://github.com/NNBnh/da-one) is a vibrant and harmony color scheme inspired by [Base16 Default](https://github.com/chriskempson/base16-default-schemes) and [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax).
 
 And these are [Base16](http://chriskempson.com/projects/base16) schemes for [Da One](https://github.com/NNBnh/da-one).
@@ -24,6 +25,10 @@ Black:
 Ocean:
 
 ![preview-ocean](https://user-images.githubusercontent.com/43980777/131168476-26853816-29de-4b24-8f81-85eb2aa36494.png)
+
+Sea:
+
+![preview-sea](https://user-images.githubusercontent.com/43980777/173582324-d981588b-5d83-481b-974f-6f4cfe566526.png)
 
 Paper:
 
