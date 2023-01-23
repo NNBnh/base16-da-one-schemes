@@ -9,6 +9,7 @@
 And these are [Base16](http://chriskempson.com/projects/base16) schemes for [Da One](https://github.com/NNBnh/da-one).
 
 ## 🎨 Palette
+
 White:
 
 ![preview-white](https://user-images.githubusercontent.com/43980777/131168422-5d0ef9a1-ba0d-4d0c-821e-9c8500b82e6d.png)
@@ -34,6 +35,7 @@ Paper:
 ![preview-paper](https://user-images.githubusercontent.com/43980777/131168486-42d3d2c9-69b0-4100-907c-3bb7972a700c.png)
 
 ## 💌 Credits
+
 Special thanks to:
 - [**Base16 Default**](https://github.com/chriskempson/base16-default-schemes) by [Chris Kempson](https://github.com/chriskempson)
 - [**One Dark**](https://github.com/atom/atom/tree/master/packages/one-dark-syntax) from [Atom](https://atom.io)
